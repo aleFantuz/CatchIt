@@ -1,0 +1,4 @@
+come pubblicare online il gioco: 
+
+il web server ha un ip pubblico, se si assegna invece un indirizzo ip privato possono esisterne molti altri
+uguali.
